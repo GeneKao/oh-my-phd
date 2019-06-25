@@ -1,3 +1,5 @@
 * Oh My PhD!
 
 Hi Welcome to Oh My PhD! I will document some interesting and useful things I learn during my PhD study at ETH here.
+
+For my programming notes, please see this [[https://github.com/GeneKao/programming-notes][repo]].
