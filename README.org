@@ -3,7 +3,15 @@
 Hi Welcome to Oh My PhD! I will document some interesting and useful things I learn during my PhD study at ETH here.
 
 
-
-** [[https://github.com/GeneKao/programming-notes][Programming notes]]
-
 ** [[https://github.com/GeneKao/oh-my-opengl][oh-my-opengl]]
+My OpenGL practice
+
+** [[https://github.com/GeneKao/orgmode-latex-templates][orgmode-latex-templates]]
+My org-mode templates for latex-style writing
+This repo contains different templates as a starter code to write org-mode which can later be exported to latex and pdf.
+
+** [[https://github.com/GeneKao/phd-org-mode][phd-org-mode]]
+My phd orgmode to organize my scheduling. Based on this template.
+
+** [[https://github.com/GeneKao/programming-notes][programming notes]]
+Other programming related notes
