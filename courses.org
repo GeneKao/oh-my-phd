@@ -1,0 +1,9 @@
+* Courses I took at ETH Zurich
+** Computer Science 
+*** [[http://crl.ethz.ch/teaching/computational-fab-19/index.html][Physics-based Modeling for Computational Fabrication and Robotics]]
+*** [[https://cgl.ethz.ch/teaching/mathfound19/home.php][Mathematical Foundations of Computer Graphics and Vision]]
+*** [[https://math.ethz.ch/ifor/education/courses/fall-2019/introduction-to-mathematical-optimization.html][Introduction to Mathematical Optimization]]
+*** [[https://igl.ethz.ch/teaching/shape-modeling/sm2020/][Shape Modeling and Geometry Processing]]
+** Architecture 
+*** [[http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2019W&ansicht=ALLE&lerneinheitId=134082&lang=en][ITA PhD course 2019 - Introduction to Computational Research in Architecture, Engineering, Fabrication and Construction]]. 
+[[https://github.com/compas-ITA19/ITA19][Courses materials]], [[https://github.com/GeneKao/ita19-assignment][my assignments]]
