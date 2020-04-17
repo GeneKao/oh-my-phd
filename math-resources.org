@@ -8,3 +8,9 @@ I use those resources to learn and improve my math.
 ** [[https://www.3blue1brown.com/][3blue1brown]]
 
 ** [[https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw][Steve Brunton]]
+
+** [[https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ/featured][MathTheBeautiful]]
+
+** [[https://www.youtube.com/user/eigenchris/playlists][eigenchris]]
+
+** [[https://www.khanacademy.org/math][KhanAcademy/Math]]
