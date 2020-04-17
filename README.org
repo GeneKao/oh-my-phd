@@ -1,5 +1,10 @@
 * Oh My PhD!
 Hi Welcome to Oh My PhD! I will document some interesting and useful things I learn during my PhD study at ETH here.
+
+[[http://phdcomics.com/comics/images/archive_list_warning.gif]]
+
+[[http://phdcomics.com/comics/archive/phd030718s.gif]]
+
 ** Writings
 *** [[https://github.com/GeneKao/orgmode-latex-templates][orgmode-latex-templates]]
 My org-mode templates for latex-style writing
