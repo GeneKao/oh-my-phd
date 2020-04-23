@@ -1,0 +1,11 @@
+* (Discrete) Differential Geometry
+** Books 
+- [[https://link.springer.com/book/10.1007/978-3-7643-8621-4][Discrete Differential Geometry]] by Alexander I. Bobenko et al. 
+** Papers
+- [[https://www.cs.cmu.edu/~kmcrane/Projects/DDG/][Discrete Differential Geometry: An Applied Introduction by Keenan Crane]]
+- [[http://multires.caltech.edu/pubs/diffGeoOps.pdf][Discrete Differential-Geometry Operators for Triangulated 2-Manifolds]], one of the most important papers 
+** Courses / Videos
+- [[http://brickisland.net/DDGSpring2020/][CMU CS 15-458/858: Discrete Differential Geometry]], [[https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS][youtube]]
+** Resources 
+- [[http://ddg.cs.columbia.edu/][The Discrete Differential Geometry Forum]]
+
