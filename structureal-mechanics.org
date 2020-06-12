@@ -1,0 +1,3 @@
+* Structural Mechanics
+** Books
+- [[http://homepages.engineering.auckland.ac.nz/~pkel015/SolidMechanicsBooks/Part_I/][An Introduction to Solid Mechanics]]

@@ -22,3 +22,4 @@ Some math resources I find it very useful online.
 ** Time management
 *** [[https://github.com/GeneKao/phd-org-mode][phd-org-mode]]
 My phd orgmode to organize my scheduling. Based on this template.
+*** [[file:structureal-mechanics.org][structural mechanics]]
