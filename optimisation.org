@@ -1,0 +1,3 @@
+* Optimisation
+** Book
+- [[http://www.sce.carleton.ca/faculty/chinneck/po.html][Practical Optimization: A Genetle Introduction]]

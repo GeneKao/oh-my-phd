@@ -18,6 +18,7 @@ My OpenGL practice
 *** [[./courses.org][courses at ETH]]
 *** [[./math-found.org][math foundations]]
 Some math resources I find it very useful online.
+*** [[file:optimisation.org][optimisation]]
 *** [[file:discrete-differential-geometry.org][(discrete) differential geometry]]
 *** [[file:structureal-mechanics.org][structural mechanics]]
 ** Time management
